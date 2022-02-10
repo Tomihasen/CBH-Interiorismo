@@ -8,26 +8,75 @@ body {
     background-color:  #f7ecdf;
     font-family: 'Montserrat', sans-serif;
     color: black;
+    line-height: 2;
 }
+
 
 h1 {
     font-weight: bold;
 }
 
-p {
+
+.textoIndex {
     font-size: 30px;
 }
+
+
+.imgIndex {
+    width: 500px;
+}
+
+
 
 .logo {
     border-radius: 50%;
     width: 100px;
 }
 
+
 a {
     font-size: 18px;
+    
+    color: black;
 }
+
+h5 {
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
 a:hover{ 
     font-weight: bold;
 }
 
+.imagenes {
+    opacity: 0.4;
+}
 
+.imagenes:hover {
+    opacity: 1;
+}
+
+.yo {
+    width: 300px;
+}
+
+.redes {
+    width: 50px;
+}
+
+.footer {
+    height: 10vh;
+}
+
+.instagram {
+    width: 50px;
+}
+
+.loguitos {
+    height: 18px;
+    width: 22px;
+    margin-right: 10px;
+}
